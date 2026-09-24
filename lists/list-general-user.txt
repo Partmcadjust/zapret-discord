@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# Partmcadjust/zapret-discord 36aa28f8d2db
